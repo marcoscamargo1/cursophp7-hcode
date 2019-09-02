@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4719c9a-706c-423a-9f75-a7ffb41a7327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/seguranca/command-injection/ex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/criptografia/ex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/permissoes-pasta/ex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/recatpcha/cadastrar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/recatpcha/ex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/session-hijacking/ex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/sql-injection/ex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/xss/ex01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boletophp" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boletophp/boleto_itau.php" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp/boleto_itau.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boletophp/include/layout_itau.php" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp/include/layout_itau.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/class/Sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/dao/class/Sql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dao/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +22,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer/composer.json</pharConfigPath>
     <execution>
       <executable path="composer" />
@@ -28,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/boletophp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
     <include_path>
@@ -47,18 +56,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\rain-tpl" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd\fonts" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\dao\class" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\HCODE\PHP-7\slim" />
       <recent name="C:\xampp\htdocs\HCODE\PHP-7\rain-tpl\tpl" />
       <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd" />
       <recent name="C:\xampp\htdocs\HCODE\PHP-7\files\images" />
       <recent name="C:\xampp\htdocs\HCODE\PHP-7\pdo" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\HCODE\PHP-7\rain-tpl" />
-      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd" />
-      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd\fonts" />
-      <recent name="C:\xampp\htdocs\HCODE\PHP-7\dao\class" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -94,7 +103,8 @@
       <workItem from="1567177412086" duration="2129000" />
       <workItem from="1567179570275" duration="5971000" />
       <workItem from="1567254605576" duration="31602000" />
-      <workItem from="1567378791562" duration="7721000" />
+      <workItem from="1567378791562" duration="8322000" />
+      <workItem from="1567418413126" duration="13613000" />
     </task>
     <servers />
   </component>
