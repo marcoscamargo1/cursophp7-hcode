@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4719c9a-706c-423a-9f75-a7ffb41a7327" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/boletophp/boleto_itau.php" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp/boleto_itau.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boletophp/include/layout_itau.php" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp/include/layout_itau.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/class/Sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/dao/class/Sql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dao/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/boletophp" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/composer/vendor/composer" />
+      <path value="$PROJECT_DIR$/composer/vendor/monolog/monolog" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Q3c1E8BoPvfH3650xk5YLP4jW5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/slim" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\slim" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\rain-tpl\tpl" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\files\images" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\pdo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\rain-tpl" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\biblioteca-gd\fonts" />
+      <recent name="C:\xampp\htdocs\HCODE\PHP-7\dao\class" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4719c9a-706c-423a-9f75-a7ffb41a7327" name="Default Changelist" comment="" />
+      <created>1567002503834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567002503834</updated>
+      <workItem from="1567002512273" duration="14553000" />
+      <workItem from="1567034747570" duration="1906000" />
+      <workItem from="1567037010148" duration="1796000" />
+      <workItem from="1567039650386" duration="2013000" />
+      <workItem from="1567042172024" duration="4368000" />
+      <workItem from="1567079318615" duration="12586000" />
+      <workItem from="1567097387286" duration="5442000" />
+      <workItem from="1567165128269" duration="8805000" />
+      <workItem from="1567177412086" duration="2129000" />
+      <workItem from="1567179570275" duration="5971000" />
+      <workItem from="1567254605576" duration="31602000" />
+      <workItem from="1567378791562" duration="7721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

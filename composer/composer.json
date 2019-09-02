@@ -1,0 +1,13 @@
+{
+    "name": "marcoscamargo1/composer",
+    "description": "Aula composer, curso PHP7 - HCode",
+    "authors": [
+        {
+            "name": "marcoscamargo1",
+            "email": "marcoscamargo.cm@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
